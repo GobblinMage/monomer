@@ -9,7 +9,7 @@ slug: /overview
 
 Ethereum’s rollup-centric roadmap has led to the proliferation of blockchains at Layer 2. Most aim to achieve some level of Ethereum equivalence. While this may be sufficient for many use cases, application-specific blockchains enable developers to deliver vertically-integrated user experiences at lower costs.
 
-The Cosmos SDK is a framework for building application-specific blockchains. Applications built using the Cosmos SDK are composed of modules, many of which are available out-of-the box, allowing developers to easily build their own. For example, the widely-used IBC (Inter-Blockchain Communication) modules facilitate trust-minimized bridging.
+The Cosmos SDK is a framework for building application-specific blockchains. Applications built using the Cosmos SDK are composed of modules, many of which are available out-of-the-box, allowing developers to easily build their own. For example, the widely-used IBC (Inter-Blockchain Communication) modules facilitate trust-minimized bridging.
 
 By deploying a Cosmos SDK app on Ethereum, developers get the best of both worlds: direct access to Ethereum’s vast liquidity and user base, coupled with state-of-the-art app chain tooling in the Cosmos SDK.
 
